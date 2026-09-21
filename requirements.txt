@@ -1,0 +1,20 @@
+# requirements.txt
+# Llama 70B Quantized Inference — CUDA / Dual-GPU
+
+# Jupyter environment
+jupyter
+jupyterlab
+notebook
+ipykernel
+
+# LLM inference
+llama-cpp-python
+
+# Model downloading
+huggingface-hub
+
+# Numerical computing
+numpy
+
+# Progress bars and utilities
+tqdm
